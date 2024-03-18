@@ -1,0 +1,159 @@
+[INFO ] 2024-02-15 15:30:02.711 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-15 15:30:02.738 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-15 15:30:03.989 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-15 15:30:04.145 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-15 15:30:04.257 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-15 15:30:05.391 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-15 15:30:05.431 [main] Ecommerce - VerifyLogin --Failed
+[INFO ] 2024-02-16 15:16:12.533 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:16:12.576 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:16:13.583 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:16:13.818 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:16:13.962 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:16:14.964 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:16:15.017 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-16 15:16:54.370 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:16:54.407 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:16:55.377 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:16:55.605 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:16:55.742 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:16:56.718 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:16:56.767 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-16 15:17:57.985 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:17:58.027 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:17:59.030 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:17:59.262 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:17:59.389 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:18:00.411 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:18:00.454 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-16 15:19:27.662 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:19:27.692 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:19:28.632 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:19:28.798 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:19:28.898 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:19:29.840 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:19:29.881 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-16 15:20:50.790 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:20:50.826 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:20:51.915 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:20:52.089 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:20:52.205 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:20:53.201 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:20:53.248 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-16 15:26:52.670 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:26:52.715 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:26:53.719 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:26:53.951 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:26:54.088 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:26:54.999 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:26:55.041 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-16 15:33:14.669 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:33:14.696 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:33:15.913 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:33:16.075 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:33:16.168 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:33:17.452 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:33:17.506 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-16 15:35:06.477 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-16 15:35:06.508 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-16 15:35:07.689 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-16 15:35:07.919 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-16 15:35:08.017 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-16 15:35:09.202 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-16 15:35:09.295 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-17 00:46:21.560 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-17 00:46:21.601 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-17 00:46:22.869 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-17 00:46:23.241 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-17 00:46:23.501 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-17 00:46:24.546 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-17 00:46:24.625 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-26 01:27:26.834 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 01:28:05.029 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 01:41:37.172 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 01:55:39.481 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 01:55:39.515 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-26 01:55:40.507 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-26 01:55:40.720 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-26 01:55:40.864 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-26 01:55:43.045 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-26 01:55:43.124 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-26 01:55:49.300 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 02:01:06.335 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 15:29:18.184 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 15:29:54.472 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 15:33:52.678 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 15:36:44.838 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-26 15:46:01.803 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 00:26:28.297 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 00:28:25.401 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 00:28:40.142 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 00:28:40.280 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-28 00:28:44.914 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-28 00:28:45.117 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-28 00:28:45.249 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-28 00:28:46.209 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-28 00:28:46.250 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-28 00:37:29.328 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 00:51:28.132 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 00:52:25.357 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 16:34:55.960 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 16:38:44.809 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 16:39:05.267 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 16:44:48.757 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 16:55:08.539 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 16:57:28.725 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 16:57:28.749 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-28 16:57:29.888 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-28 16:57:30.050 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-28 16:57:30.151 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-28 16:57:31.075 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-28 16:57:31.119 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-28 16:58:00.958 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 17:01:01.601 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 17:07:53.124 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 17:10:19.616 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 17:24:23.785 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-28 17:31:45.065 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 00:26:46.368 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 14:04:29.594 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 14:06:31.867 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 14:06:31.889 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-29 14:06:32.848 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-29 14:06:33.014 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-29 14:06:33.115 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-29 14:06:34.274 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-29 14:06:34.318 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-29 14:12:11.322 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 14:28:27.847 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 14:48:44.430 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 15:08:23.710 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 15:08:45.943 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 15:08:45.968 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-29 15:08:47.793 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-29 15:08:47.991 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-29 15:08:48.095 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-29 15:08:49.933 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-29 15:08:49.971 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-29 15:10:37.517 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 15:20:45.429 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 15:22:49.372 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 15:24:05.624 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 20:15:30.005 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 20:15:30.100 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-29 20:15:54.446 [main] Ecommerce - Url Opned
+[INFO ] 2024-02-29 20:15:54.482 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-02-29 20:15:56.309 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-02-29 20:15:56.559 [main] Ecommerce - Email Entered.
+[INFO ] 2024-02-29 20:15:56.782 [main] Ecommerce - password Entered.
+[INFO ] 2024-02-29 20:15:57.942 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-02-29 20:15:58.050 [main] Ecommerce - VerifyLogin --Passed
+[INFO ] 2024-02-29 23:57:54.958 [main] Ecommerce - Url Opned
+[INFO ] 2024-03-15 12:26:15.991 [main] Ecommerce - Url Opned
+[INFO ] 2024-03-15 12:26:48.337 [main] Ecommerce - Url Opned
+[INFO ] 2024-03-15 12:26:48.383 [main] Ecommerce - verify login test Excecution started.
+[INFO ] 2024-03-15 12:26:51.203 [main] Ecommerce - Clicked on sign in
+[INFO ] 2024-03-15 12:26:51.383 [main] Ecommerce - Email Entered.
+[INFO ] 2024-03-15 12:26:51.495 [main] Ecommerce - password Entered.
+[INFO ] 2024-03-15 12:26:52.406 [main] Ecommerce - clicked on sign in button.
+[INFO ] 2024-03-15 12:26:52.453 [main] Ecommerce - VerifyLogin --Passed
